@@ -13,3 +13,4 @@ public class EventosappApplication {
 		System.out.print(new BCryptPasswordEncoder().encode("123"));
 	}
 }
+
