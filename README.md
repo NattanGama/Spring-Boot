@@ -1,10 +1,10 @@
-# EventWeb
+# Eventos
 
 ##### A aplicação foi desenvolvida na decoder, no curso de spring-boot, para projeto de aprendizado sobre CRUD (create - read - update - delete) de java com spring-boot, html, css e js.
 
 ![Captura de tela 2022-02-06 034809](https://user-images.githubusercontent.com/91083215/152670584-3a166d1a-a68a-444f-a9f0-af96c5e9ccd2.png)
  
- #### A EventWeb é um projeto web de registro e listagem de eventos, uma aplicação que permite aos usuários tanto cadastrar quanto visualizar informações sobre eventos. Ele inclui funcionalidades para adicionar novos eventos, ver uma lista dos eventos já cadastrados, além de detalhes como data, hora, localização e descrição. Este sistema simplifica a busca por eventos específicos e facilita o gerenciamento de atividades futuras. 
+ #### Um projeto web de registro e listagem de eventos, uma aplicação que permite aos usuários tanto cadastrar quanto visualizar informações sobre eventos. Ele inclui funcionalidades para adicionar novos eventos, ver uma lista dos eventos já cadastrados, além de detalhes como data, hora, localização e descrição. Este sistema simplifica a busca por eventos específicos e facilita o gerenciamento de atividades futuras. 
  
 </div>
 
